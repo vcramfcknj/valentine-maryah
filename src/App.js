@@ -157,12 +157,11 @@ function App() {
                 
                 <div className="letter-signature">
                   <p className="letter-text">Forever yours,</p>
-                  <div className="signature">Your Love</div>
+                  <div className="signature">jo</div>
                 </div>
                 
                 <div className="letter-ps">
-                  P.S. — The tulips are for you. They bloom in spring, just like my love 
-                  for you continues to grow with each passing season. 🌷
+                  P.S. — I miss you, See you soonest. 🌷
                 </div>
               </div>
             </div>
